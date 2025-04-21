@@ -4,7 +4,7 @@ This is my home page! My name is Jesus Guzman and I am a student at [Cal State F
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/JsusAG.
+My GitHub page is [JsusAG](http://github.com/JsusAG).
 
 ### CPSC 120
 
