@@ -10,18 +10,19 @@ My GitHub page is http://github.com/JsusAG @ [JsusAG](http://github.com/JsusAG).
 
 Lab 1
 
-    Lab 1 is one of my choices since      part 2 was a favorite because I was always curious about how the
-    game Blackjack works. I was able to write functions for the first time
-    that calculate the correct value of a Blackjack hand no matter how many
-    Aces were dealt.
+    Lab 1 is one of my choices since it was our first lab and showed us
+    how to use and get familiar with the Linux system, the BASH shell, 
+    and GitHub, all thing we will be using throughout the semester and 
+    beyond. Some specifics that I found cool was configuring git and
+    learning the command line commands like git push and git clone for
+    example. Since this was our first assignment we had very little code
+    to work on just editing the starter code to output Hello World on when 
+    running the code.  
 
 Lab 2
 
-    Lab 2, the MadLib mad was a memorable lab for me since I have done a similar
-    MadLib assignment in HTML for a previous class.    part 2 was a favorite because I was always curious about how the
-    game Blackjack works. I was able to write functions for the first time
-    that calculate the correct value of a Blackjack hand no matter how many
-    Aces were dealt.
+    Lab 2, the MadLib mad was a memorable lab for me since I have done
+    a similar MadLib assignment in HTML for a previous class. I had 
 
 Lab 4
 
