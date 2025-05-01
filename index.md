@@ -1,6 +1,6 @@
 # CPSC 120 Portfolio 
 
-This is my home page! My name is Jesus Guzman and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Science. I transfered to Fullerton this semester from Mt. San Antonio College  
+This is my home page! My name is Jesus Guzman and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Science. I transferred to Fullerton this semester after receiving an associates from Mt. San Antonio College.   
 
 ## GitHub
 
