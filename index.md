@@ -1,17 +1,17 @@
-# Hello World
+# CPSC 120 Portfolio 
 
-This is my home page! My name is Jesus Guzman and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Science.
+This is my home page! My name is Jesus Guzman and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Science. I transfered to Fullerton this semester from Mt. San Antonio College  
 
-## Computer Science Projects
+## CPSC 120
 
 My GitHub page is http://github.com/JsusAG @ [JsusAG](http://github.com/JsusAG).
 
-### CPSC 120
+### Computer Science Projects/Labs
 
 Lab 1
 
-    Lab 1 is one of my choices since it was our first lab and showed us how to use and get 
-    familiar with the Linux system, the BASH shell, and GitHub, all things we will be using
+    Lab 1 is one of my choices since it was our first lab and showed us how to use and get familiar with the Linux system,
+    the BASH shell, and GitHub, all things we will be using
     throughout the semester and beyond. Some specifics that I found cool was configuring
     git and learning the command line commands like git push and git clone for example.
     Since this was our first assignment we had very little code to work on, just editing
