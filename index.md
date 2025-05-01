@@ -14,21 +14,8 @@ Lab 1 is one of my choices since it was our first lab and showed us how to use a
 
 Lab 2
 
-    Lab 2, the Mad libs lab was a memorable lab for me since I have done a similar Mad Libs
-    lab in HTML for a previous class. It was cool to see the differences between HTML and
-    C++ when completing a similar task. This was one of the more fun assignments in my
-    opinion and helped me understand how to properly use cout, cin, and string. Also on
-    this lab I learned about formatting my code better due to us using the 
-    check_formatting tool (until we switched to use the make tool for more than just
-    formatting), with this I saw that I left extra spaces all over my code frequently.
+Lab 2, the Mad libs lab was a memorable lab for me since I have done a similar Mad Libs lab in HTML for a previous class. It was cool to see the differences between HTML and C++ when completing a similar task. This was one of the more fun assignments in my opinion and helped me understand how to properly use cout, cin, and string. Also on this lab I learned about formatting my code better due to us using the check_formatting tool (until we switched to use the make tool for more than just formatting), with this I saw that I left extra spaces all over my code frequently.
 
 Lab 11
 
-    Lab 11 part-1 is one of my choices since it involves object-oriented classes which
-    was prep for the next class CPSC 121. In this assignment we get familiar with objects,
-    in this case we use the State object. This assignment also gave me more practice 
-    when it comes to reading files since I had struggled with that previously, as 
-    well as how to read specifics like rows by using row.at(). In this lab we also get
-    practice with naming conventions like CamelCase from class names & member functions
-    (lab ex: LandArea), as well as lower_case_with_underscore_at_the_end_ from data 
-    members (lab ex: land_area_).
+Lab 11 part-1 is one of my choices since it involves object-oriented classes which was prep for the next class CPSC 121. In this assignment we get familiar with objects, in this case we use the State object. This assignment also gave me more practice when it comes to reading files since I had struggled with that previously, as well as how to read specifics like rows by using row.at(). In this lab we also get practice with naming conventions like CamelCase from class names & member functions (lab ex: LandArea), as well as lower_case_with_underscore_at_the_end_ from data members (lab ex: land_area_).
